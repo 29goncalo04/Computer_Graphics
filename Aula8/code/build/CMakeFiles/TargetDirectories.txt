@@ -1,0 +1,3 @@
+/home/goncalo/3_ano/2sem/CG/Computer_Graphics/Aula8/code/build/CMakeFiles/class8.dir
+/home/goncalo/3_ano/2sem/CG/Computer_Graphics/Aula8/code/build/CMakeFiles/edit_cache.dir
+/home/goncalo/3_ano/2sem/CG/Computer_Graphics/Aula8/code/build/CMakeFiles/rebuild_cache.dir
